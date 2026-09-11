@@ -5,7 +5,11 @@
 > Building things, breaking things, and learning how they actually work.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamsahu31)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamsahu31)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prathamsahu03)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://pratham.app)
 
 ---
@@ -23,19 +27,49 @@
 
 ---
 
-## 🌟 Featured Projects
+## 📌 Featured Projects
 
-### 🔐 VeriCore
+<table>
+<tr>
 
+<td width="50%" valign="top">
+
+<h3>📌 VeriCore</h3>
+
+<blockquote>
 A project focused on building a more reliable and trustworthy digital experience.
+</blockquote>
 
-🔗 **[Live Demo](https://vericore-mu.vercel.app/)**
+<b>🔗 Live Demo</b>
 
-### 🚀 More Projects
+<br><br>
 
-I'm constantly experimenting with new ideas across web development, AI and software engineering.
+<a href="https://vericore-mu.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-📂 **[Explore my repositories →](https://github.com/prathamsahu31?tab=repositories)**
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📌 More Projects</h3>
+
+<blockquote>
+Constantly experimenting with new ideas across web development, AI and software engineering.
+</blockquote>
+
+<b>📂 Explore my repositories</b>
+
+<br><br>
+
+<a href="https://github.com/prathamsahu31?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -51,7 +85,7 @@ I'm constantly experimenting with new ideas across web development, AI and softw
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,typescript,tailwind,nodejs" />
-<img src="https://skillicons.dev/icons?i=postgresql,supabase,render,vercel" />
+<img src="https://skillicons.dev/icons?i=postgresql,supabase,vercel,firebase,netlify" />
 </p>
 
 ### Tools & Cloud
@@ -66,6 +100,7 @@ I'm constantly experimenting with new ideas across web development, AI and softw
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 📚 Computer Science
@@ -89,6 +124,7 @@ I'm constantly experimenting with new ideas across web development, AI and softw
 - Software Architecture
 
 </td>
+
 </tr>
 </table>
 

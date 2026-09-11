@@ -5,11 +5,8 @@
 > Building things, breaking things, and learning how they actually work.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathamsahu31)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamsahu31)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prathamsahu03)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://pratham.app)
 
 ---
@@ -133,8 +130,14 @@ Constantly experimenting with new ideas across web development, AI and software 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamsahu31&theme=github-compact&hide_border=true&area=true" width="100%"/>
+  <img
+    src="https://ghchart.xqsit94.in/prathamsahu31"
+    alt="Pratham's GitHub Contributions"
+    width="95%"
+  />
 </p>
+
+## 📊 GitHub Contributions
 
 ---
 
